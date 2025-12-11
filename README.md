@@ -1,4 +1,3 @@
-Team real submission for DEVSOC 2025
 
 # Self-Hostable Notes & Research Assistant with Llama 3.2 & SearXNG
 
